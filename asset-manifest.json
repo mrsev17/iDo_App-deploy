@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.06edc13e.css",
-    "main.js": "/static/js/main.67056d86.js",
+    "main.css": "/static/css/main.380a5efb.css",
+    "main.js": "/static/js/main.59c7180c.js",
     "static/media/Montserrat-ExtraBoldItalic.ttf": "/static/media/Montserrat-ExtraBoldItalic.76d4f91037d6f1719d81.ttf",
     "static/media/Montserrat-BlackItalic.ttf": "/static/media/Montserrat-BlackItalic.1434e705c6450803a5ad.ttf",
     "static/media/Montserrat-BoldItalic.ttf": "/static/media/Montserrat-BoldItalic.5aab5be715cf74fdf85f.ttf",
@@ -57,11 +57,11 @@
     "static/media/Montserrat-Black.woff2": "/static/media/Montserrat-Black.7be345ff732e153f58ac.woff2",
     "static/media/Montserrat-Thin.woff2": "/static/media/Montserrat-Thin.d1c06471f60c5e382c32.woff2",
     "index.html": "/index.html",
-    "main.06edc13e.css.map": "/static/css/main.06edc13e.css.map",
-    "main.67056d86.js.map": "/static/js/main.67056d86.js.map"
+    "main.380a5efb.css.map": "/static/css/main.380a5efb.css.map",
+    "main.59c7180c.js.map": "/static/js/main.59c7180c.js.map"
   },
   "entrypoints": [
-    "static/css/main.06edc13e.css",
-    "static/js/main.67056d86.js"
+    "static/css/main.380a5efb.css",
+    "static/js/main.59c7180c.js"
   ]
 }
